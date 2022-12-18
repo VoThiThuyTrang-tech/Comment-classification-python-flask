@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'plbl'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ABE6F8832E79424780343A164C1BE09D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_492C6A6849CA42E7B4C57DEC4CE79B51 }}
